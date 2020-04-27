@@ -1,0 +1,9 @@
+---
+title: "RLCard: A Platform for Reinforcement Learning in Card Games"
+collection: publications
+permalink: /publication/2020-07-13-rlcard-a-platform
+date: 2020-07-13
+info: '<b>Daochen Zha*</b>, Kwei-Herng Lai*, Songyi Huang∗, Yuanpu Cao, Keerthana Reddy, Juan Vargas, Alex Nguyen, Ruzhe Wei, Junyu Guo, and Xia Hu
+<br>
+International Joint Conference on Artificial Intelligence (<b>IJCAI</b>, demo paper), <b>2020</b>'
+---
