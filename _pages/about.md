@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a second-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with [Dr. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). Prior to my study at Texas A&M, I received my Bachelor degree in Computer Science from Wuhan University, working with [Dr. Chenliang Li](http://www.lichenliang.net/).
+Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with [Dr. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). Prior to my study at Texas A&M, I received my Bachelor degree in Computer Science from Wuhan University, working with [Dr. Chenliang Li](http://www.lichenliang.net/).
 
 My research interests lie in machine learning and data mining. I have been studying reinforcement learning and its applications. Recently, I am interested in optimizing data mining solutions with deep reinforcement learning, such as anomaly detection and graph neural networks. I am experienced in text mining, such as topic modeling and text classification. I have also been working on automated machine learning to provide accessable machine learning solutions.
 

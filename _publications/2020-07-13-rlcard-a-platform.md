@@ -9,5 +9,7 @@ info: '<b>Daochen Zha*</b>, Kwei-Herng Lai*, Songyi Huang∗, Yuanpu Cao, Keerth
 <br>
 <a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[PDF]</a>
 |
-<a href="https://github.com/datamllab/rlcard">[Code]</a>'
+<a href="https://github.com/datamllab/rlcard">[Code]</a>
+|
+<a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>'
 ---
