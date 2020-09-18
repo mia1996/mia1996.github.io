@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with [Dr. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). Prior to my study at Texas A&M, I received my Bachelor degree in Computer Science from Wuhan University, working with [Dr. Chenliang Li](http://www.lichenliang.net/).
+Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with [Dr. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). Prior to my study at Texas A&M, I received my Bachelor degree in Computer Science from Wuhan University, working with [Dr. Chenliang Li](http://www.lichenliang.net/). I was a Research Intern at Seattle AI Lab. Kuai Inc., working with Dr. Wenye Ma and [Dr. Ji Liu](http://jiliu-ml.org/).
 
-My research interests lie in machine learning and data mining. I have been studying reinforcement learning and its applications. Recently, I am interested in optimizing data mining solutions with deep reinforcement learning, such as anomaly detection and graph neural networks. I am experienced in text mining, such as topic modeling and text classification. I have also been working on automated machine learning to provide accessable machine learning solutions.
-
-I am an active open-source contributor. I strive to create easy-to-use tools to enable more people to benefit from machine learning and data mining algorithms. I am leading [RLCard](https://github.com/datamllab/rlcard), a toolkit for reinforcement learning in card games. I am also contributing to [PyODDS](https://github.com/datamllab/pyodds), an anomaly detection package with automated machine learning.
+My research mainly focuses on machine learning and data mining. In particular, I am interested in reinforcement learning and its applications in automated, interpretable, and human-friendly machine learning systems. Beyond research, I strive to create easy-to-use open-source tools to enable more people to benefit from machine learning and data mining algorithms. I am leading [RLCard](https://github.com/datamllab/rlcard), a toolkit for reinforcement learning in card games (the project has attracted more than 700 stars and 150 forks). I am also co-leading [PyODDS](https://github.com/datamllab/pyodds), an end-to-end outlier detection system with automated machine learning, and [TODS](https://github.com/datamllab/tods), an automated time-series outlier detection system.
 
 <h1> Publications </h1>
 
