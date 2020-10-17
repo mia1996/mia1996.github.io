@@ -8,9 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). Prior to my study at Texas A&M, I received my Bachelor degree in Computer Science from Wuhan University, working with Dr. [Chenliang Li](http://www.lichenliang.net/). I was a Research Intern at Seattle AI Lab of Kuai Inc., working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/).
+Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with Dr. [Chenliang Li](http://www.lichenliang.net/). I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/).
 
-My research mainly focuses on machine learning and data mining. In particular, I am interested in reinforcement learning and its applications in automated, interpretable, and human-friendly machine learning systems. Beyond research, I strive to create easy-to-use open-source tools to enable more people to benefit from machine learning and data mining algorithms. I am leading [RLCard](https://github.com/datamllab/rlcard), a toolkit for reinforcement learning in card games (the project has attracted more than 700 stars and 150 forks). I am also co-leading [PyODDS](https://github.com/datamllab/pyodds), an end-to-end outlier detection system with automated machine learning, and [TODS](https://github.com/datamllab/tods), an automated time-series outlier detection system.
+My research mainly focuses on machine learning and data mining. In particular, I am interested in Reinforcement Learning (RL), Automated Machine Learning (AutoML), Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Text Mining, Recommender Systems, and Machine Learning Systems, etc.
+
+<h1> Open-Source Projects </h1>
+<img src="https://raw.githubusercontent.com/datamllab/rlcard/master/docs/imgs/logo.jpg" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>800 stars</b>) </h3>
+To be presented in <b> IJCAI 2020 </b>
+<br>
+<a href="http://rlcard.org/">[Website]</a>
+|
+<a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[Paper]</a>
+|
+<a href="https://github.com/datamllab/rlcard">[Code]</a>
+|
+<a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>
+
+<img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>200 stars</b>) </h3>
+Under review of <b>AAAI 2021</b>
+<br>
+<a href="https://tods-doc.github.io/">[Website]</a>
+|
+<a href="https://arxiv.org/pdf/2009.09822.pdf">[Paper]</a>
+|
+<a href="https://github.com/datamllab/tods">[Code]</a>
+|
+<a href="https://www.youtube.com/watch?v=H0bBXuDUe7s">[Video]</a>
+
+<img src="https://daochenzha.github.io/files/pyodds_logo.png" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> PyODDS: An End-to-end Outlier Detection System (<b>>100 stars</b>) </h3>
+Presented in <b> WWW 2020 </b>
+<br>
+<a href="http://pyodds.com/">[Website]</a>
+|
+<a href="http://dczha.com/files/pyodds-an-end.pdf">[Paper]</a>
+|
+<a href="https://github.com/datamllab/pyodds">[Code]</a>
+
 
 <h1> Publications </h1>
 
