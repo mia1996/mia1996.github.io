@@ -27,7 +27,7 @@ To be presented in <b> IJCAI 2020 </b>
 
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>200 stars</b>) </h3>
-Under review of <b>AAAI 2021</b>
+To be presented in <b>AAAI 2021</b>
 <br>
 <a href="https://tods-doc.github.io/">[Website]</a>
 |
