@@ -9,5 +9,7 @@ info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Mingyang Wan, and Xia Hu
 <br>
 <a href="https://arxiv.org/abs/2009.07415">[PDF]</a>
 |
+<a href="https://daochenzha.github.io/files/slide-metaaad-active-anomaly.pdf">[Slide]</a>
+|
 <a href="https://github.com/daochenzha/Meta-AAD">[Code]</a>'
 ---

@@ -7,5 +7,7 @@ info: '<b>Daochen Zha</b>, Kwei-Herng Lai, Kaixiong Zhou, and Xia Hu
 <br>
 <b>IJCAI 2019</b>, International Joint Conferences on Artifical Intelligence
 <br>
-<a href="https://daochenzha.github.io/files/experience-replay-optimization.pdf">[PDF]</a>'
+<a href="https://daochenzha.github.io/files/experience-replay-optimization.pdf">[PDF]</a>
+|
+<a href="https://daochenzha.github.io/files/slide-experience-replay-optimization.pdf">[Slide]</a>'
 ---
