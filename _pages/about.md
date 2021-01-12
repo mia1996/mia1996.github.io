@@ -14,8 +14,8 @@ My research mainly focuses on machine learning and data mining. In particular, I
 
 <h1> Open-Source Projects </h1>
 <img src="https://raw.githubusercontent.com/datamllab/rlcard/master/docs/imgs/logo.jpg" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>800 stars</b>) </h3>
-To be presented in <b> IJCAI 2020 </b>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>900 stars</b>) </h3>
+Presented in <b> IJCAI 2020 </b>
 <br>
 <a href="http://rlcard.org/">[Website]</a>
 |
