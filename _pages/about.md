@@ -27,7 +27,7 @@ Presented in <b> IJCAI 2020 </b>
 
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>200 stars</b>) </h3>
-To be presented in <b>AAAI 2021</b>
+Presented in <b>AAAI 2021</b>
 <br>
 <a href="https://tods-doc.github.io/">[Website]</a>
 |
@@ -53,13 +53,17 @@ Presented in <b> WWW 2020 </b>
 <a href="https://scholar.google.com/citations?user=RXp2tEwAAAAJ&hl=en"> [Google Schorlar] </a>
 <br>
 <b> * Equal contribution </b>
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
+{% assign cur_year = "9999" %}
 {% for post in site.publications reversed %}
+  {% assign dates = post.date | split: "-" %}
+  {% assign year = dates.first %}
+  {% if year != cur_year %}
+    {% assign cur_year = year %}
+<h2> {{ year }} </h2>
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
 
