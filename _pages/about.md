@@ -37,7 +37,7 @@ Presented in <b>AAAI 2021</b>
 |
 <a href="https://www.youtube.com/watch?v=H0bBXuDUe7s">[Video]</a>
 
-<img src="https://daochenzha.github.io/files/pyodds_logo.png" width="200">
+<img src="https://daochenzha.github.io/files/pyodds_logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> PyODDS: An End-to-end Outlier Detection System (<b>>100 stars</b>) </h3>
 Presented in <b> WWW 2020 </b>
 <br>
