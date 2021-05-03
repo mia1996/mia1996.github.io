@@ -5,7 +5,7 @@ permalink: /publication/2021-05-04-rank-the-episodes
 date: 2021-05-04
 info: '<b>Daochen Zha</b>, Wenye Ma, Lei Yuan, Xia Hu, Ji Liu
 <br>
-<b>ICLR 2021</b>, International Conference on Learning Representations
+<p style="color:blue">ICLR 2021</p>, International Conference on Learning Representations
 <br>
 <a href="https://openreview.net/forum?id=MtEE0CktZht">[PDF]</a>
 |
