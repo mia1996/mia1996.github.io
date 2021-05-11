@@ -13,7 +13,7 @@ Howdy! I am a third-year PhD student from the Department of Computer Science and
 My research mainly focuses on machine learning and data mining. In particular, I am interested in Reinforcement Learning (RL) and Automated Machine Learning (AutoML). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
 <h1> Open-Source Projects </h1>
-<img src="https://raw.githubusercontent.com/datamllab/rlcard/master/docs/imgs/logo.jpg" width="200">
+<img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>1,000 stars</b>) </h3>
 Presented in <b> IJCAI 2020 </b>
 <br>
