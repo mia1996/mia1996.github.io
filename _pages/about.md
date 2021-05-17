@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with Dr. [Chenliang Li](http://www.lichenliang.net/). I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/).
+Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with Dr. [Chenliang Li](http://www.lichenliang.net/). I am now a Research Intern at Facebook, working on automated machine learning systems. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/).
 
-My research mainly focuses on machine learning and data mining. In particular, I am interested in Reinforcement Learning (RL) and Automated Machine Learning (AutoML). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
+My research mainly focuses on machine learning and data mining. In particular, I am interested in Automated Machine Learning and Reinforcement Learning (RL). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
 
 <h1> Open-Source Projects </h1>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
