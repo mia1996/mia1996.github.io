@@ -1,5 +1,5 @@
 ---
-title: "AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning"
+title: "AutoOD: Neural Architecture Search for Outlier Detection"
 collection: publications
 permalink: /publication/2021-04-19-autoad-automated-outlier
 date: 2021-04-19
