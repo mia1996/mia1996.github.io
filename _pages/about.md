@@ -25,6 +25,16 @@ Presented in <b> IJCAI 2020 </b>
 |
 <a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>
 
+<img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/douzero_logo.png" width="200">
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning (<b>>Released on June 2021</b>) </h3>
+To be presented in <b>ICML 2021</b>
+<br>
+<a href="https://douzero.org/">[Demo]</a>
+|
+<a href="https://arxiv.org/abs/2106.06135">[Paper]</a>
+|
+<a href="https://github.com/kwai/DouZero">[Code]</a>
+
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>300 stars</b>) </h3>
 Presented in <b>AAAI 2021</b>

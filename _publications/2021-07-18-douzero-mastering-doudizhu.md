@@ -9,5 +9,7 @@ info: '<b>Daochen Zha</b>, Jingru Xie, Wenye Ma, Sheng Zhang, Xiangru Lian, Xia 
 <br>
 <a href="https://arxiv.org/abs/2106.06135">[PDF]</a>
 |
-<a href="https://github.com/kwai/DouZero">[Code]</a>'
+<a href="https://github.com/kwai/DouZero">[Code]</a>
+|
+<a href="https://douzero.org/">[Demo]</a>'
 ---
