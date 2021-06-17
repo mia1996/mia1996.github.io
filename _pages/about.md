@@ -21,6 +21,8 @@ Presented in <b> IJCAI 2020 </b>
 |
 <a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[Paper]</a>
 |
+<a href="https://douzero.org/">[Demo]</a>
+|
 <a href="https://github.com/datamllab/rlcard">[Code]</a>
 |
 <a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>
