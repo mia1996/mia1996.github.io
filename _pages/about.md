@@ -27,7 +27,7 @@ Presented in <b> IJCAI 2020 </b>
 |
 <a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>
 <br>
-<img src="https://daochenzha.github.io/files/douzero-gif.gif" width="200">
+<img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
 
 <img src="https://daochenzha.github.io/files/douzero_logo.jpg" width="200">
