@@ -11,5 +11,7 @@ info: '<b>Daochen Zha</b>, Jingru Xie, Wenye Ma, Sheng Zhang, Xiangru Lian, Xia 
 |
 <a href="https://github.com/kwai/DouZero">[Code]</a>
 |
-<a href="https://douzero.org/">[Demo]</a>'
+<a href="https://douzero.org/">[Demo]</a>
+|
+<a href="https://daochenzha.github.io/files/slide-douzero-master-doudizhu.pdf">[Slide]</a>'
 ---
