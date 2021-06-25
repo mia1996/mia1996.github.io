@@ -31,7 +31,7 @@ Presented in <b> IJCAI 2020 </b>
 
 
 <img src="https://daochenzha.github.io/files/douzero_logo.jpg" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning (<b>Released on June 2021</b>) </h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning (<b>>1,000 stars</b>) </h3>
 To be presented in <b>ICML 2021</b>
 <br>
 <a href="https://douzero.org/">[Demo]</a>
