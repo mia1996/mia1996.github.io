@@ -31,7 +31,7 @@ Presented in <b> IJCAI 2020 </b>
 
 
 <img src="https://daochenzha.github.io/files/douzero_logo.jpg" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning (<b>>1,800 stars</b>) </h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning (<b>>1,900 stars</b>) </h3>
 Presented in <b>ICML 2021</b>
 <br>
 <a href="https://douzero.org/">[Demo]</a>
@@ -41,7 +41,7 @@ Presented in <b>ICML 2021</b>
 <a href="https://github.com/kwai/DouZero">[Code]</a>
 
 <img src="https://raw.githubusercontent.com/datamllab/autovideo/main/docs/autovideo_logo.png" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System (<b>>Newly Released</b>) </h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> AutoVideo: An Automated Video Action Recognition System (<b>Newly Released</b>) </h3>
 Preprint
 <br>
 <a href="https://arxiv.org/abs/2108.04212">[Paper]</a>
@@ -49,7 +49,7 @@ Preprint
 <a href="https://github.com/datamllab/autovideo">[Code]</a>
 
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>300 stars</b>) </h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>400 stars</b>) </h3>
 Presented in <b>AAAI 2021</b>
 
 <br>
