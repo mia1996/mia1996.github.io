@@ -17,6 +17,10 @@ I’m an engineer and researcher working at Data Lab of Texas A&M University, fo
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>400 stars</b>) </h3>
 Presented in <b>AAAI 2021</b>
 <br>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=H0bBXuDUe7s">
+</iframe>
+</br>
 <a href="https://tods-doc.github.io/">[Website]</a>
 |
 <a href="https://arxiv.org/pdf/2009.09822.pdf">[Paper]</a>
@@ -27,7 +31,11 @@ Presented in <b>AAAI 2021</b>
 
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>1,300 stars</b>) </h3>
-<br>
+</br>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=krK2jmSdKZc">
+</iframe>
+</br>
 <a href="http://rlcard.org/">[Website]</a>
 |
 <a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[Paper]</a>
@@ -40,8 +48,6 @@ Presented in <b>AAAI 2021</b>
 
 <h1> Publications </h1>
 
-<a href="https://scholar.google.com/citations?user=RXp2tEwAAAAJ&hl=en"> [Google Schorlar] </a>
-<br>
 <b> * Equal contribution </b>
 
 {% include base_path %}
