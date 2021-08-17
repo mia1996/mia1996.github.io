@@ -25,6 +25,7 @@ Presented in <b>AAAI 2021</b>
 |
 <a href="https://www.youtube.com/watch?v=H0bBXuDUe7s">[Video]</a>
 <iframe width="320" height="240" src="https://www.youtube.com/embed/H0bBXuDUe7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>1,300 stars</b>) </h3>
