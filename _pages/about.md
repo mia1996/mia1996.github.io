@@ -32,9 +32,7 @@ src="https://www.youtube.com/watch?v=H0bBXuDUe7s">
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>1,300 stars</b>) </h3>
 </br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=krK2jmSdKZc">
-</iframe>
+<iframe width="200" height="112.5" src="https://www.youtube.com/embed/krK2jmSdKZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </br>
 <a href="http://rlcard.org/">[Website]</a>
 |
