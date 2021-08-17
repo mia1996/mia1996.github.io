@@ -17,10 +17,6 @@ I’m an engineer and researcher working at Data Lab of Texas A&M University, fo
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>400 stars</b>) </h3>
 Presented in <b>AAAI 2021</b>
 <br>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=H0bBXuDUe7s">
-</iframe>
-</br>
 <a href="https://tods-doc.github.io/">[Website]</a>
 |
 <a href="https://arxiv.org/pdf/2009.09822.pdf">[Paper]</a>
@@ -28,12 +24,11 @@ src="https://www.youtube.com/watch?v=H0bBXuDUe7s">
 <a href="https://github.com/datamllab/tods">[Code]</a>
 |
 <a href="https://www.youtube.com/watch?v=H0bBXuDUe7s">[Video]</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0bBXuDUe7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>1,300 stars</b>) </h3>
-</br>
-<iframe width="200" height="112.5" src="https://www.youtube.com/embed/krK2jmSdKZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</br>
+<br>
 <a href="http://rlcard.org/">[Website]</a>
 |
 <a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[Paper]</a>
@@ -43,6 +38,8 @@ src="https://www.youtube.com/watch?v=H0bBXuDUe7s">
 <a href="https://github.com/datamllab/rlcard">[Code]</a>
 |
 <a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>
+<br>
+<img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
 <h1> Publications </h1>
 
