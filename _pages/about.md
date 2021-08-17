@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a third-year PhD student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). I received my Bachelor degree in Computer Science from Wuhan University in 2018, working with Dr. [Chenliang Li](http://www.lichenliang.net/). I am now a Research Intern at Facebook, working on automated machine learning systems. I was a Research Intern at Seattle AI Lab of Kuai Inc. in Summer 2020, working with Dr. Wenye Ma and Dr. [Ji Liu](http://jiliu-ml.org/).
+Howdy! I am a Master student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr.Na Zou and Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). I received my Master degree in Industrial Engineering from Texas A&M University in 2020 and Bachelor degree in Logistics Engineering from Beijing University of Posts and Telecommunications.
 
-My research mainly focuses on machine learning and data mining. In particular, I am interested in Automated Machine Learning (AutoML) and Reinforcement Learning (RL). I am also interested in their applications in Anomaly and Outlier Detection, Graph Neural Networks, Time-Series Analysis, Recommender Systems, and Machine Learning Systems, etc.
+I’m an engineer and researcher working at Data Lab of Texas A&M University, focusing on Anomaly Detection and Fairness AI. I am also a seasoned software developer working at Texas A&M Data Lab, contributed to several Python open-source projects with more than 1700 GitHub stars and more than 50,000 downloads in total.
 
 <h1> Open-Source Projects </h1>
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
