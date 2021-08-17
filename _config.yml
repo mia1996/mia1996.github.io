@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daochen Zha"
+title                    : "Mingyang Wan"
 title_separator          : "-"
-name                     : &name "Daochen Zha"
-description              : &description "PhD student in machine learning and data mining"
+name                     : &name "Mingyang Wan"
+description              : &description "Master student in machine learning and data mining"
 url                      : https://dczha.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "daochenzha/daochenzha.github.io"
+repository               : "mia1996/mia1996.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daochen Zha"
-  avatar           : "profile.png"
-  bio              : "PhD student in Machine Learning and Data Mining"
+  name             : "Mingyang Wan"
+  avatar           : "profile.jpeg"
+  bio              : "Master student in Machine Learning and Data Mining"
   location         : "College Station, TX, USA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=RXp2tEwAAAAJ&hl=en"
-  email            : "daochen.zha@tamu.edu"
+  googlescholar    :
+  email            : "w1996@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daochenzha"
+  github           : "mia1996"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "daochen-zha"
+  linkedin         : "mingyang（mia）-wan-772b47179"
   orcid            :
   pinterest        :
   soundcloud       :
