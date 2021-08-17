@@ -24,7 +24,6 @@ Presented in <b>AAAI 2021</b>
 <a href="https://github.com/datamllab/tods">[Code]</a>
 |
 <a href="https://www.youtube.com/watch?v=H0bBXuDUe7s">[Video]</a>
-<iframe width="320" height="240" src="https://www.youtube.com/embed/H0bBXuDUe7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
@@ -39,6 +38,7 @@ Presented in <b>AAAI 2021</b>
 <a href="https://github.com/datamllab/rlcard">[Code]</a>
 |
 <a href="https://www.youtube.com/watch?v=krK2jmSdKZc">[Video]</a>
+<br>
 <img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
 <h1> Publications </h1>
