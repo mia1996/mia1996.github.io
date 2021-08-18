@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a Master student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr.Na Zou and Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). I received my Master degree in Industrial Engineering from Texas A&M University in 2020 and Bachelor degree in Logistics Engineering from Beijing University of Posts and Telecommunications.I was a Data Analyst Intern at Bristol-Myers Squibb (Devens, MA) from 07/2019-12/2019 , working with [Christian Merrill](https://www.linkedin.com/in/christian-merrill-85186488/)
+Howdy! I am a Master student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr.[Na Zou](https://engineering.tamu.edu/etid/profiles/zou-na.html) and Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/). I received my Master degree in Industrial Engineering from Texas A&M University in 2020 and Bachelor degree in Logistics Engineering from Beijing University of Posts and Telecommunications.I was a Data Analyst Intern at Bristol-Myers Squibb (Devens, MA) from 07/2019-12/2019 , working with [Christian Merrill](https://www.linkedin.com/in/christian-merrill-85186488/).
 
 I’m an engineer and researcher working at Data Lab of Texas A&M University, focusing on Anomaly Detection and Fairness AI. I am also a seasoned software developer working at Texas A&M Data Lab, contributed to several Python open-source projects with more than 1700 GitHub stars and more than 50,000 downloads in total.
 
