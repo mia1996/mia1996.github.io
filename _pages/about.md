@@ -62,11 +62,11 @@ Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019
   {% include archive-single.html %}
 {% endfor %}
 
-<h> My cutie family </h1>
+<h1> My cutie family </h1>
 
 This is Oreo and ZhiZhi! 
 
-Oreo was born in the Aggieland propertiesis shelter and is 1 year old now! He likes cuddles and tickles. Dinner can time is his favorite part of a day!
+Oreo was born in the Aggieland Propertiesis shelter and is 1 year old now! He likes cuddles and tickles. Dinner can time is his favorite part of a day!
 
 Zhizhi likes hay donuts and playing by himselves. He will say "zhi~" when he does not like you to touch him!
 
