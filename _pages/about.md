@@ -46,7 +46,7 @@ Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019
 <a href="https://mia1996.github.io/files/Recommendation_Letter.pdf">[Recommendation Letter]</a>
 <br>
 
-<img src="https://mia1996.github.io/files/Co-op.jpg" width="400">
+<img src="https://mia1996.github.io/files/Co-op.jpg" width="700">
 
 <h1> Publications </h1>
 
