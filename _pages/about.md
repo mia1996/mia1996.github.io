@@ -45,8 +45,6 @@ under development
 
 <h1> Publications </h1>
 
-<b> * Equal contribution </b>
-
 {% include base_path %}
 
 {% assign cur_year = "9999" %}
