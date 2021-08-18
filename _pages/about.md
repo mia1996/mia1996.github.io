@@ -49,7 +49,6 @@ Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019
 <img src="https://mia1996.github.io/files/Co-op.jpg" width="600">
 
 <h1> Publications </h1>
-
 {% include base_path %}
 
 {% assign cur_year = "9999" %}
@@ -62,4 +61,8 @@ Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h1> My cutie family </h1>
+
+<img src="https://mia1996.github.io/files/pets.jpg" width="600">
 
