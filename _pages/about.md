@@ -64,7 +64,7 @@ Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019
 
 <h1> My cutie family </h1>
 
-This is Oreo and ZhiZhi! 
+These are Oreo and ZhiZhi! 
 
 Oreo was born in the Aggieland Propertiesis shelter and is 1 year old now! He likes cuddles, tickles and dinner can!
 
