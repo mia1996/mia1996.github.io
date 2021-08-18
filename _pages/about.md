@@ -40,6 +40,9 @@ Presented in <b>AAAI 2021</b>
 <br>
 <img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
+<h1> Course Projects </h1>
+under development
+
 <h1> Publications </h1>
 
 <b> * Equal contribution </b>
