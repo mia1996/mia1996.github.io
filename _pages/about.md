@@ -41,9 +41,11 @@ Presented in <b>AAAI 2021</b>
 <img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
 <h1> Intern/Co-op Experience </h1>
-Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019<a href="https://mia1996.github.io/files/Recommendation_Letter.pdf">[Recommendation Letter]</a>
+Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019
 <br>
-<img src="https://mia1996.github.io/files/Co-op.png" width="400">
+<a href="https://mia1996.github.io/files/Recommendation_Letter.pdf">[Recommendation Letter]</a>
+<br>
+<img src="https://mia1996.github.io/files/Co-op.jpg" width="400">
 
 <h1> Publications </h1>
 
