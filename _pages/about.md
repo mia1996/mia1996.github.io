@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Homepage <a href="https://mia1996.github.io/files/Resume_MingyangWan_2021.pdf">[Resume]</a>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
