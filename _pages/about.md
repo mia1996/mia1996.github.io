@@ -16,10 +16,9 @@ I’m an engineer and researcher working at Data Lab of Texas A&M University, fo
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>400 stars</b>) </h3>
 Presented in <b>AAAI 2021</b>
-
 <br>
-<a href=" " class="svelte-bg3ukj">< img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/tods"></a >
-<a href="https://github.com/datamllab/tods" class="svelte-bg3ukj">< img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/tods"></a >&nbsp;
+<a href="https://github.com/datamllab/tods" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/tods"></a>
+<a href="https://github.com/datamllab/tods" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/tods"></a>&nbsp;
 <a href="https://tods-doc.github.io/">[Website]</a>
 |
 <a href="https://arxiv.org/pdf/2009.09822.pdf">[Paper]</a>
