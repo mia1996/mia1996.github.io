@@ -14,7 +14,7 @@ I’m an engineer and researcher working at Data Lab of Texas A&M University, fo
 
 <h1> Open-Source Projects </h1>
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System (<b>>400 stars</b>) </h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System </h3>
 Presented in <b>AAAI 2021</b>
 <br>
 <a href="https://github.com/datamllab/tods" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/tods"></a>
@@ -29,7 +29,9 @@ Presented in <b>AAAI 2021</b>
 <br>
 
 <img src="https://daochenzha.github.io/files/rlcard/logo.jpg" width="200">
-<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games (<b>>1,300 stars</b>) </h3>
+<h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> RLCard: A Toolkit for Reinforcement Learning in Card Games</h3>
+<a href="https://github.com/datamllab/rlcard" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/datamllab/rlcard"></a>
+<a href="https://github.com/datamllab/rlcard" class="svelte-bg3ukj"><img class="badge svelte-bg3ukj" alt="GitHub Repo forks" src="https://img.shields.io/github/forks/datamllab/rlcard"></a>&nbsp;
 <a href="http://rlcard.org/">[Website]</a>
 |
 <a href="https://daochenzha.github.io/files/rlcard-a-platform.pdf">[Paper]</a>
