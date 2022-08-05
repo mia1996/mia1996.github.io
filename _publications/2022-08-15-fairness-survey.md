@@ -3,7 +3,7 @@ title: "In-Processing Modeling Techniques for Machine Learning Fairness: A Surve
 collection: publications
 permalink: /publication/2022-06-01-modeling-techniques-for
 date: 2022-06-01
-info: '<b>Mingyang Wan<b>, Daochen Zha, Ninghao Liu, Na Zou
+info: '<b>Mingyang Wan</b>, Daochen Zha, Ninghao Liu, Na Zou
 <br>
 <b> TKDD 2022</b>, ACM Transactions on Knowledge Discovery from Data
 <br>
