@@ -26,7 +26,7 @@ I’m an engineer and researcher working at Data Lab of Texas A&M University, fo
 <a href="https://mia1996.github.io/files/Recommendation_Letter.pdf">[Recommendation Letter]</a>
 <br>
 
-<img src="https://mia1996.github.io/files/Co-op.jpg" width="600">
+<img src="https://mia1996.github.io/files/Co-op.jpg" width="600" class="center">
 
 
 <h1> Open-Source Projects </h1>
