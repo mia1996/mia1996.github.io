@@ -8,26 +8,57 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I am a Master student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr.[Na Zou](https://engineering.tamu.edu/etid/profiles/zou-na.html) and Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/), expecting to graduate in <b>Dec 2022</b>. I'm a software engineer intern in <b>Apple Inc.</b>, working on an Automation testing system for Apple Apps organization.
+Hi! I am a <b>Machine Learning Infrastructure Engineer</b> at DocuSign Inc., focusing on <b>AI Search</b>. Before joining DocuSign, I was a Machine Learning Engineer at Neeva Inc., focusing on <b>large language modeling for web search</b>. I was a Master student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr.[Na Zou](https://engineering.tamu.edu/etid/profiles/zou-na.html) and Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/), expecting to graduate in <b>Dec 2022</b>. I'm a software engineer intern in <b>Apple Inc.</b>, working on an Automation testing system for Apple Apps organization.
 
-I received my Master degree in Industrial Engineering from Texas A&M University in 2020 and Bachelor degree in Logistics Engineering from Beijing University of Posts and Telecommunications.I was a Data Analyst Intern at <b>Bristol-Myers Squibb</b> (Devens, MA) from 07/2019-12/2019 , working with [Christian Merrill](https://www.linkedin.com/in/christian-merrill-85186488/).
+I received my Master degree in Industrial Engineering from Texas A&M University in 2020 and Bachelor degree in Logistics Engineering from Beijing University of Posts and Telecommunications. I was a Data Analyst Intern at <b>Bristol-Myers Squibb</b> (Devens, MA) from 07/2019-12/2019 , working with [Christian Merrill](https://www.linkedin.com/in/christian-merrill-85186488/).
 
-I’m an engineer and researcher working at Data Lab of Texas A&M University, focusing on <b>Anomaly Detection</b> and <b>Fairness AI</b>. I am also a seasoned software developer working at Texas A&M Data Lab, contributed to several Python open-source projects with more than <b>1700</b> GitHub stars and more than<b>50,000</b> downloads in total. <a href="https://mia1996.github.io/files/Resume_MingyangWan_2021.pdf">[Resume]</a>
+When I was an engineer and researcher working at Data Lab of Texas A&M University, I focus on <b>Anomaly Detection</b> and <b>Fairness AI</b>. I was also a seasoned software developer working at Texas A&M Data Lab, contributed to several Python open-source projects with more than <b>1700</b> GitHub stars and more than<b>50,000</b> downloads in total. <a href="https://mia1996.github.io/files/Resume_MingyangWan_2021.pdf">[Resume]</a>
 
+
+<h1> Publications </h1>
+<a href="https://scholar.google.com/citations?user=4vkJS7cAAAAJ&hl=en"> [Google Schorlar] </a>
+{% include base_path %}
+
+{% assign cur_year = "9999" %}
+{% for post in site.publications reversed %}
+  {% assign dates = post.date | split: "-" %}
+  {% assign year = dates.first %}
+  {% if year != cur_year %}
+    {% assign cur_year = year %}
+<h2> {{ year }} </h2>
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h1> Work Experience </h1>
+<b>Machine Learning Infrastructure Engineer at DocuSign Inc. (San Francisco, CA)  07/2023-now <b>
+<img src="https://mia1996.github.io/files/docusign.jpg" width="70">
+<b>Machine Learning Engineer at Neeva Inc. (Mountain View, CA)  01/2023-06/2023 <b>
+<img src="https://mia1996.github.io/files/neeva.jpg" width="70">
 
 <h1> Intern/Co-op Experience </h1>
-
 <b>Software Engineer, internship at Apple Inc. (Cupertino, CA)	05/2022-08/2022</b>
-
 <img src="https://mia1996.github.io/files/apple.jpg" width="70">
-
 <b>Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019</b>
 <br>
 <a href="https://mia1996.github.io/files/Recommendation_Letter.pdf">[Recommendation Letter]</a>
 <br>
-
 <img src="https://mia1996.github.io/files/Co-op.jpg" width="600" class="center">
 
+<h1> Professional Service </h1>
+<b> Conference Program Committee Member (45 reviews in total):</b>
+2025 International Joint Conference on Artificial Intelligence (10 reviews).
+2025 International Joint Conference on Neural Networks (10 reviews).
+2025 Conference on Health, Inference, and Learning (2 reviews).
+2025 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (3 reviews).
+2025 AAAI Conference on Artificial Intelligence (6 reviews for AI Agent for Information Retrieval Workshop, Preventing and Detecting LLM Misinformation Workshop).
+2025 International Conference on Learning Representations (7 reviews for Deep Generative Model in Machine Learning: Theory, Principle and Efficacy Workshop, AI for Nucleic Acids Workshop, GenAI Watermarking Workshop, Foundation Models in the Wild Workshop, XAI4Science: From Understanding Model Behavior to Discovering New Scientific Knowledge Workshop, AI for Children: Healthcare, Psychology, Education Workshop).
+2025 Teaching and Learning Conference (3 reviews).
+2025 IEEE/CVF Winter Conference on Applications of Computer Vision (3 reviews for Out-of-Label Hazards in Autonomous Driving Workshop).
+2025 IEEE International Conference on Electrical, Control and Computer Engineering (1 review).
+<b> Journal Reviewer (20 reviews in total): </b>
+IEEE Transactions on Neural Networks and Learning Systems (provided 3 reviews).
+IEEE Transactions on Computational Social Systems (provided 2 reviews).
 
 <h1> Open-Source Projects </h1>
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
@@ -62,23 +93,11 @@ Presented in <b>AAAI 2021</b>
 <img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
 
-<h1> Publications </h1>
-{% include base_path %}
 
-{% assign cur_year = "9999" %}
-{% for post in site.publications reversed %}
-  {% assign dates = post.date | split: "-" %}
-  {% assign year = dates.first %}
-  {% if year != cur_year %}
-    {% assign cur_year = year %}
-<h2> {{ year }} </h2>
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
 
-<h1> My cutie family </h1>
+<!-- <h1> My cutie family </h1>
 
 These are Oreo and ZhiZhi!<br>Oreo was born in the Aggieland Propertiesis shelter and is 1 year old now! He likes cuddles, tickles and dinner can!<br>Zhizhi likes hay donuts and playing by himself. He will say "zhi~" when he does not like you to touch him!
 
-<img src="https://mia1996.github.io/files/pets.jpg" width="400">
+<img src="https://mia1996.github.io/files/pets.jpg" width="400"> -->
 
