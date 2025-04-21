@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mingyang Wan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Machine Learning Infrastructure Engineer at DocuSign Inc."
   location         : "Bay Area, CA, USA"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=4vkJS7cAAAAJ&hl=en"
   email            : "miawan0119@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
