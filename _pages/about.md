@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a <b>Machine Learning Infrastructure Engineer</b> at DocuSign Inc., focusing on <b>AI Search</b>. Before joining DocuSign, I was a Machine Learning Engineer at Neeva Inc., focusing on <b>large language modeling for web search</b>. I was a Master student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr.[Na Zou](https://engineering.tamu.edu/etid/profiles/zou-na.html) and Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/), expecting to graduate in <b>Dec 2022</b>. I'm a software engineer intern in <b>Apple Inc.</b>, working on an Automation testing system for Apple Apps organization.
+Hi! I am a <b>Machine Learning Infrastructure Engineer</b> at DocuSign Inc., focusing on <b>AI Search</b>. Before joining DocuSign, I was a Machine Learning Engineer at Neeva Inc., focusing on <b>large language modeling for web search</b>. I was a Master student from the Department of Computer Science and Engineering at Texas A&M University, working with Dr.[Na Zou](https://engineering.tamu.edu/etid/profiles/zou-na.html) and Dr. [Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/), graduated in <b>Dec 2022</b>.
 
 I received my Master degree in Industrial Engineering from Texas A&M University in 2020 and Bachelor degree in Logistics Engineering from Beijing University of Posts and Telecommunications. I was a Data Analyst Intern at <b>Bristol-Myers Squibb</b> (Devens, MA) from 07/2019-12/2019 , working with [Christian Merrill](https://www.linkedin.com/in/christian-merrill-85186488/).
 
