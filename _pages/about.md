@@ -32,33 +32,41 @@ When I was an engineer and researcher working at Data Lab of Texas A&M Universit
 
 <h1> Work Experience </h1>
 <b>Machine Learning Infrastructure Engineer at DocuSign Inc. (San Francisco, CA)  07/2023-now <b>
-<img src="https://mia1996.github.io/files/docusign.jpg" width="70">
+
+<img src="https://mia1996.github.io/files/docusign.jpg" width="200" class="center">
+
 <b>Machine Learning Engineer at Neeva Inc. (Mountain View, CA)  01/2023-06/2023 <b>
-<img src="https://mia1996.github.io/files/neeva.jpg" width="70">
+
+<img src="https://mia1996.github.io/files/neeva.jpg" width="100" class="center">
 
 <h1> Intern/Co-op Experience </h1>
 <b>Software Engineer, internship at Apple Inc. (Cupertino, CA)	05/2022-08/2022</b>
-<img src="https://mia1996.github.io/files/apple.jpg" width="70">
+
+<img src="https://mia1996.github.io/files/apple.jpg" width="70" class="center">
+
 <b>Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019</b>
 <br>
 <a href="https://mia1996.github.io/files/Recommendation_Letter.pdf">[Recommendation Letter]</a>
 <br>
-<img src="https://mia1996.github.io/files/Co-op.jpg" width="600" class="center">
+<img src="https://mia1996.github.io/files/Co-op.jpg" width="500" class="center">
 
 <h1> Professional Service </h1>
 <b> Conference Program Committee Member (45 reviews in total):</b>
-2025 International Joint Conference on Artificial Intelligence (10 reviews).
-2025 International Joint Conference on Neural Networks (10 reviews).
-2025 Conference on Health, Inference, and Learning (2 reviews).
-2025 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (3 reviews).
-2025 AAAI Conference on Artificial Intelligence (6 reviews for AI Agent for Information Retrieval Workshop, Preventing and Detecting LLM Misinformation Workshop).
-2025 International Conference on Learning Representations (7 reviews for Deep Generative Model in Machine Learning: Theory, Principle and Efficacy Workshop, AI for Nucleic Acids Workshop, GenAI Watermarking Workshop, Foundation Models in the Wild Workshop, XAI4Science: From Understanding Model Behavior to Discovering New Scientific Knowledge Workshop, AI for Children: Healthcare, Psychology, Education Workshop).
-2025 Teaching and Learning Conference (3 reviews).
-2025 IEEE/CVF Winter Conference on Applications of Computer Vision (3 reviews for Out-of-Label Hazards in Autonomous Driving Workshop).
-2025 IEEE International Conference on Electrical, Control and Computer Engineering (1 review).
-<b> Journal Reviewer (20 reviews in total): </b>
-IEEE Transactions on Neural Networks and Learning Systems (provided 3 reviews).
-IEEE Transactions on Computational Social Systems (provided 2 reviews).
+
+2025 International Joint Conference on Artificial Intelligence (10 reviews). <br />
+2025 International Joint Conference on Neural Networks (10 reviews).<br />
+2025 Conference on Health, Inference, and Learning (2 reviews).<br />
+2025 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (3 reviews).<br />
+2025 AAAI Conference on Artificial Intelligence (6 reviews for AI Agent for Information Retrieval Workshop, Preventing and Detecting LLM Misinformation Workshop).<br />
+2025 International Conference on Learning Representations (7 reviews for Deep Generative Model in Machine Learning: Theory, Principle and Efficacy Workshop, AI for Nucleic Acids Workshop, GenAI Watermarking Workshop, Foundation Models in the Wild Workshop, XAI4Science: From Understanding Model Behavior to Discovering New Scientific Knowledge Workshop, AI for Children: Healthcare, Psychology, Education Workshop).<br />
+2025 Teaching and Learning Conference (3 reviews).<br />
+2025 IEEE/CVF Winter Conference on Applications of Computer Vision (3 reviews for Out-of-Label Hazards in Autonomous Driving Workshop).<br />
+2025 IEEE International Conference on Electrical, Control and Computer Engineering (1 review).<br />
+
+<b>Journal Reviewer (20 reviews in total): </b>
+
+IEEE Transactions on Neural Networks and Learning Systems (provided 3 reviews).<br />
+IEEE Transactions on Computational Social Systems (provided 2 reviews).<br />
 
 <h1> Open-Source Projects </h1>
 <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
