@@ -102,8 +102,18 @@ Presented in <b>AAAI 2021</b>
 
 
 <h1>Outside of Work</h1>
-<br>I have a cat named Oreo, born at the Aggieland shelter—he’s now one year old! He loves cuddles, chin tickles, and chicken dinner cans.<br>
-<br>On weekends, I volunteer with the Rabbit Team at the San Jose Animal Shelter, helping care for adorable bunnies. Let me know if you’re thinking about adopting one!<br>
+I have a cat named Oreo, born at the Aggieland shelter—he’s now 5 year old! He loves cuddles,tickles, and chicken dinner cans!
+
+<img src="https://mia1996.github.io/files/oreo1.jpg" width="200">
+<img src="https://mia1996.github.io/files/oreo2.jpg" width="200">
+<img src="https://mia1996.github.io/files/oreo3.jpg" width="200">
+
+On weekends, I volunteer with the Rabbit Team at the San Jose Animal Shelter, helping care for adorable bunnies. Let me know if you’re thinking about adopting one!
+
+<img src="https://mia1996.github.io/files/bunny1.jpg" width="200">
+<img src="https://mia1996.github.io/files/bunny2.jpg" width="200">
+<img src="https://mia1996.github.io/files/bunny3.jpg" width="200">
+<img src="https://mia1996.github.io/files/bunny4.jpg" width="200">
 
 <!-- <h1> My cutie family </h1>
 
