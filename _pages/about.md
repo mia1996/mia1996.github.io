@@ -101,7 +101,9 @@ Presented in <b>AAAI 2021</b>
 <img src="https://daochenzha.github.io/files/douzero-gif.gif" width="350">
 
 
-
+<h1>Outside of Work</h1>
+<br>I have a cat named Oreo, born at the Aggieland shelter—he’s now one year old! He loves cuddles, chin tickles, and chicken dinner cans.<br>
+<br>On weekends, I volunteer with the Rabbit Team at the San Jose Animal Shelter, helping care for adorable bunnies. Let me know if you’re thinking about adopting one!<br>
 
 <!-- <h1> My cutie family </h1>
 
