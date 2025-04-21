@@ -31,20 +31,20 @@ When I was an engineer and researcher working at Data Lab of Texas A&M Universit
 {% endfor %}
 
 <h1> Work Experience </h1>
-<b>Machine Learning Infrastructure Engineer at DocuSign Inc. (San Francisco, CA)  07/2023-now <b>
+<b>Machine Learning Infrastructure Engineer at DocuSign Inc. (San Francisco, CA)      07/2023-now <b>
 
-<img src="https://mia1996.github.io/files/docusign.jpg" width="200" class="center">
+  <img src="https://mia1996.github.io/files/docusign.jpg" width="200" class="center">
 
-<b>Machine Learning Engineer at Neeva Inc. (Mountain View, CA)  01/2023-06/2023 <b>
+<b>Machine Learning Engineer at Neeva Inc. (Mountain View, CA)      01/2023-06/2023 <b>
 
-<img src="https://mia1996.github.io/files/neeva.jpg" width="100" class="center">
+  <img src="https://mia1996.github.io/files/neeva.jpg" width="100" class="center">
 
 <h1> Intern/Co-op Experience </h1>
-<b>Software Engineer, internship at Apple Inc. (Cupertino, CA)	05/2022-08/2022</b>
+<b>Software Engineer, internship at Apple Inc. (Cupertino, CA)	    05/2022-08/2022</b>
 
 <img src="https://mia1996.github.io/files/apple.jpg" width="70" class="center">
 
-<b>Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	07/2019-12/2019</b>
+<b>Data Scientist, Co-Op at Bristol-Myers Squibb (Devens, MA)	    07/2019-12/2019</b>
 <br>
 <a href="https://mia1996.github.io/files/Recommendation_Letter.pdf">[Recommendation Letter]</a>
 <br>
@@ -69,7 +69,7 @@ IEEE Transactions on Neural Networks and Learning Systems (provided 3 reviews).<
 IEEE Transactions on Computational Social Systems (provided 2 reviews).<br />
 
 <h1> Open-Source Projects </h1>
-<img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200">
+<!-- <img src="https://raw.githubusercontent.com/datamllab/tods/master/docs/img/tods_logo.png" width="200"> -->
 <h3 class="archive__item-title" itemprop="headline" style="font-weight:normal;"> TODS: An Automated Time-series Outlier Detection System </h3>
 Presented in <b>AAAI 2021</b>
 <br>
